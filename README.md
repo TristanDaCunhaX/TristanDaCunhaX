@@ -1,4 +1,4 @@
-- 👋  Hi, I’m @TristanDaCunhaX
+- 👋  Hi, I’m Tristan Da Cunha
 - 👀  I’m interested in generative art
 - 🌱  I’m currently experimenting with Processing, p5.js and Python
 
