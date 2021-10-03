@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @TristanDaCunhaX
-- 👀  I’m interested in cryptoart
-- 🌱  I’m currently experimenting in Processing and Python
+- 👀  I’m interested in generative art
+- 🌱  I’m currently experimenting with Processing, p5.js and Python
 
 <!---
 TristanDaCunhaX/TristanDaCunhaX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
